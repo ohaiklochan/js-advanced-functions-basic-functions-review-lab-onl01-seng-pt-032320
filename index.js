@@ -12,3 +12,4 @@ let wrapAdjective = function(style="*") {
   }
 }
 
+const Calculator
